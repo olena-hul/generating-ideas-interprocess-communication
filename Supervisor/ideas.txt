@@ -1,0 +1,170 @@
+Android task monitoring
+Sentiment analysis for product rating
+Fingerprint-based ATM system
+Advanced employee management system
+Image encryption using AES algorithm
+Fingerprint voting system
+Weather forecasting system
+Android local train ticketing system
+Railway tracking and arrival time prediction system
+Android Patient Tracker
+Opinion mining for social networking platforms
+Automated payroll system with GPS tracking and image capture
+Data leakage detection system
+Credit card fraud detection
+AI shopping system
+Camera motion sensor system
+Bug tracke
+e-Learning platform
+Smart health prediction system
+Software piracy protection system
+Android Task Monitoring
+Vehicle Tracking Using Driver Mobile Gps Tracking
+Image Encryption Using AES Algorithm
+E Commerce Product Rating Based On Customer
+Engineering College Automation and Scheduling System
+Weather Forecasting Using Data Mining User 
+Web Access Records Mining For Business Intelligence 
+Railway Tracking and Arrival Time Prediction 
+Android Local Train Ticketing Project 
+Android Patient Tracker 
+Opinion Mining For Restaurant 
+Reviews Website Evaluation Using Opinion Mining 
+Opinion Mining For Comment 
+Sentiment Analysis 
+Movie Success Prediction Using Data Mining
+Android Customer Relationship Management
+Android – PC Chatting & Image Sharing System
+Improved Data Leakage Detection
+Online Herbs Shopping Project 
+Sending a secure message over a network to a remote site
+Online Diagnostic Lab Reporting System 
+Online Loan Application & Verification System 
+Multi Website Advertisement Handling System
+Secure Data Transfer Over Internet Using Image Steganography 
+Airport Network Flight Scheduler 
+Image Encryption For Secure Internet Transfer
+Public Photography Contest With Live Voting 
+Image Encryption For Secure Internet Transfer 
+Public Photography Contest With Live Voting
+Criminal Investigation Tracker with Suspect Prediction 
+Distributed Dealership Network Analyzer and Sales Monitor
+E Healthcare – Online Consultation And Medical Subscription
+Automated College Timetable Generator 
+Intelligent PC Location Tracking System 
+Secure Remote Communication Using DES Algorithm
+Remote Java 2 Dotnet Communication Application 
+Internet Based Live Courier Tracking And Delivery System 
+Active Chat Monitoring and Suspicious Chat Detection over Internet
+Credit Card Fraud Detection 
+Remote User Recognition And Access Provision 
+AI Multi Agent Shopping System
+Wireless Indoor Positioning System 
+Web Content Trust Rating Prediction Using Evidence Theory 
+Topic Detection Using Keyword Clustering
+An Adaptive Social Media Recommendation System 
+Tab Based Library Book Availability & Location Finder On Wifi 
+Web Mining For Suspicious Keyword Prominence
+Web Agent For Learning Content Updating 
+PC Configuration Retrieval System on Online Server 
+Web Server Log Analysis System
+Customer Behaviour Prediction Using Web Usage Mining 
+Web Server to Client communication for web usage data analysis 
+Network Based Stock Price System
+Matrimonial Portal Project 
+On Demand Remote PC Monitoring system Through Internet 
+Online AI Shopping With M-Wallet System
+Military Access Using Card Scanning With OTP 
+Secure ATM Using Card Scanning Plus OTP 
+Secure Lab Access Using Card Scanner Plus Face
+Webpage Ranking Search Engine With Seo Suggester 
+Detect Irregular moving objects and tracking based on color and shape in real-time 
+Camera Motion Sensing Project
+Collective Face Detection Project 
+College automation project 
+Online Election System Project
+Automated Attendance System 
+Mobile Attendance System Project 
+WiFi Shopping Guide Project
+Cursor Movement By Hand Gesture Project 
+Mobile Quiz Through WiFi Project 
+The Cibil System Project
+Android Merchant Application Using Qr 
+Advanced Mobile Store 
+Artificial Intelligence Dietician
+Look Based Media Player 
+Banking Bot Project 
+Android Voting System
+Android File finder and Sorting 
+Android Tourist Guide Project 
+Android AI Diet Consultant
+Android Blood Bank 
+Bus Pass Android Project 
+Android Based Parking Booking System
+Android Based Furniture Shopping
+Grocery Shopping Android 
+Face Recognition Attendance System
+Driver Card With Qr Code Identification 
+Detecting Data Leaks 
+Mobile(location based) Advertisement System
+Medical Search Engine Project 
+Automatic Answer Checker 
+Document checker and Corrector Project 
+AI Desktop Partner 
+Car Sales And Inventory Store Project 
+Media player Project
+Education Assignment Dashboard 
+LED display generator project 
+Human Speed Detection Project 
+Cargo Booking Software 
+Mobile Banking Project 
+Facial Expression Recognition 
+Graphical Password By Image Segmentation 
+Video Surveillance Project Image Mining Project 
+Smart Health Consulting Project 
+Farming Assistance Web Service 
+Corporate Dashboard Project 
+iPad Restaurant Application 
+Detecting Edges Using Image Processor 
+Mobile(location based) Advertisement System 
+Sql Injection Prevention Project 
+Smart Health consulting system 
+Wireless Data Handling And Management 
+Android Anti-Virus Application 
+Storage/Energy efficient Cloud Computing 
+Cloud computing for Rural banking 
+E-Learning Platform using Cloud Computing 
+Automated Canteen Ordering System using Android 
+RFID Based Automatic Traffic Violation Ticketing 
+Android Based Visual Product Identification For The Blind 
+Android Offloading Computation Over Cloud 
+Android Based Universal Ticketing Project 
+Smart Health Prediction Using Data Mining 
+ERP System For Institutes 
+Efficient Doctor Patient Portal 
+Online Bookstore System On Cloud Infrastructure 
+Cloud Based Online Blood Bank System 
+Cloud Based Local Train Ticketing System C
+loud Based Bus Pass System 
+Cloud Based Career Guidance System 
+Android Bluetooth Chat 
+Bus Pass with Barcode Card scan 
+Bus Pass with webcam Scan 
+Employee attendance System By Qr Scan
+Online Printed T-Shirt Designing 
+Online Visiting Card Creation Project 
+Online Ebook Maker Project 
+MLM Project 
+Three Level Password Authentication System 
+Question paper generator system 
+Hotel Management Android Project 
+Intelligent Tourist System Project 
+Android Vehicle Tracking Application 
+Software Piracy Protection Project 
+Multi Coverage Broadcast 
+Mobile Network Stability 
+Attack Source Tracing Project 
+Mobile Networks Load Balancing 
+Graphical Password Strategy 
+Android location alarm 
+College Social Networking Web Project
